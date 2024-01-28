@@ -1,0 +1,5 @@
+Yakutsk;-0.8
+Virginia Beach;35.0
+Christchurch;23.5
+Virginia Beach;21.7
+Yakutsk;-27.6
